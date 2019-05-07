@@ -1,0 +1,151 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	color:#9b9b9b;
+}
+
+header {
+	padding-bottom: 700px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding-top: 20px 0;
+	margin-bottom: 85px;
+	margin-top: 15px;
+	background-image: url("../img/bg-hero.jpg");
+	
+	
+}
+
+.btn-rectangulo {
+	background-color: #ff4514;
+	color: #fff;
+}
+#whatuwilllearn {
+	margin-top: 150px;
+	margin-bottom: 150px;
+	margin-left: 35px;
+	margin-right: 35px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#whatuwilllearn h2{
+	font-family: 'Open Sans', sans-serif;
+	color: #000;
+	text-align: center;
+	padding-top: 35px;
+	padding-bottom: 55px;
+	
+}
+
+#whatuwilllearn h4 {
+	color: #000;
+	padding-bottom: 15px;
+}
+
+#numeros {
+	padding-top: 75px;
+	padding-bottom: 75px;
+	background-image: url("../img/bg-counter.jpg");
+	text-align: center;
+	
+}
+
+#numeros h1{
+	color: #ff4514;
+}
+
+#numeros p{
+	color: #fff;
+}
+
+#our-speakers {
+	
+	padding-top: 100px;
+	padding-bottom: 100px;
+	text-align: center;
+}
+
+#our-speakers h1{
+	color: #000;
+	text-align: center;
+}
+
+
+#our-speakers h5{
+	color: #ff4514;
+}
+
+#our-speakers img{
+	border-radius: 50px;
+}
+
+#our-speakers p{
+	padding-bottom: 35px;
+}
+
+#schedule {
+	padding-top: 100px;
+	padding-bottom: 35px;
+	text-align: center;
+	color: #000;
+	background-image: url("../img/bg-schedule.jpg");
+}
+
+#schedule h1 {
+	color: #000;
+}
+#schedule p{
+	padding-top: 15px;
+	padding-bottom: 20px;
+	color:#9b9b9b
+}
+#register {
+	padding-top: 85px;
+	padding-bottom: 85px;
+	text-align: center;
+	color: #fff;
+	background-image: url("../img/bg-call-action.jpg");
+}
+
+footer  {
+	background-color: #000;
+	color: #fff;
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+footer .fab{
+	width: 35px; 
+	height: 35px;
+	line-height: 35px;
+	text-align: center;
+	background-color: #fff;
+	color: #000;
+	border-radius: 100%;
+	   }
+
+#register form {
+	margin-left: 180px;
+	margin-right: 180px;
+}
+
+.btn-block {
+	background-color: #ff4514;
+	border-color: #d9d9d9;
+}
+
+.btn-block:hover {
+	background-color: #000;
+	border-color: #d9d9d9;
+}
+
+.btn-light {
+	
+	background-color: #ff4514;
+	border-color: #d9d9d9;
+	color: #fff;
+}
+
